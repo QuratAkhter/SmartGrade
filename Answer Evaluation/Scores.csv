@@ -1,0 +1,302 @@
+,Question,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10
+0,What is data science?,1.0,0.3,0.95,0.2,0.4,0.9,0.35,0.85,0.3,1.0
+1,What are the key steps in the data science process?,0.95,0.3,1.0,0.2,0.85,0.95,0.4,1.0,0.25,0.95
+2,What is the difference between supervised and unsupervised learning?,1.0,0.8,0.9,0.4,0.95,0.3,1.0,0.95,0.9,0.7
+3,Explain the bias-variance tradeoff.,1.0,0.95,0.75,0.9,0.2,0.9,0.3,0.85,0.95,0.4
+4,What is feature engineering?,1.0,0.3,0.95,0.2,0.9,0.4,0.95,0.25,1.0,0.35
+5,How do you handle missing data in a dataset?,1.0,0.1,0.9,0.2,0.95,0.3,0.85,0.6,0.95,0.25
+6,What is cross-validation?,1.0,0.25,0.95,0.2,1.0,0.3,0.9,0.85,0.4,0.95
+7,Explain the concept of overfitting.,1.0,0.2,0.95,0.3,0.9,0.4,0.95,0.9,1.0,0.25
+8,What are some common algorithms used in supervised learning?,1.0,0.2,0.9,0.2,0.95,0.3,0.9,0.15,1.0,0.4
+9,What is dimensionality reduction?,1.0,0.4,0.95,0.2,0.9,0.3,0.95,0.2,0.85,0.6
+10,What is regularization in machine learning?,1.0,0.2,0.95,0.3,0.9,0.25,0.95,0.2,1.0,0.3
+11,What is ensemble learning?,1.0,0.5,0.95,0.3,0.95,0.4,0.9,0.5,0.95,0.3
+12,What is the ROC curve?,1.0,0.3,0.95,0.2,0.9,0.25,0.95,0.4,0.9,0.2
+13,What is AUC-ROC?,1.0,0.2,0.95,0.3,0.9,0.4,0.85,0.25,0.95,0.2
+14,What is the difference between classification and regression?,1.0,0.3,0.95,0.2,0.9,0.4,0.9,0.3,0.95,0.5
+15,What is clustering?,1.0,0.3,0.95,0.2,0.9,0.25,0.95,0.2,0.9,0.35
+16,What is the curse of dimensionality?,1.0,0.3,0.95,0.25,0.9,0.2,0.9,0.3,0.95,0.25
+17,What is the difference between precision and recall?,1.0,0.2,0.9,0.3,0.95,0.4,0.9,0.2,0.9,0.25
+18,What is the F1 score?,1.0,0.2,0.95,0.3,1.0,0.2,0.9,0.25,0.95,0.3
+19,What is the bias of an estimator?,1.0,0.3,0.95,0.4,0.9,0.3,0.9,0.4,0.95,0.3
+20,What is the variance of an estimator?,1.0,0.3,0.95,0.2,0.95,0.3,0.9,0.35,0.95,0.4
+21,What is the Central Limit Theorem?,1.0,0.3,0.95,0.25,0.95,0.3,0.9,0.2,0.2,1.0
+22,What is regularization in neural networks?,1.0,0.3,0.95,0.3,0.9,0.2,0.95,0.25,1.0,0.3
+23,What is batch normalization?,1.0,0.3,0.95,0.3,0.9,0.25,0.9,0.3,1.0,0.2
+24,What is transfer learning?,1.0,0.2,0.95,0.3,0.95,0.3,0.9,0.4,1.0,0.3
+25,What is natural language processing (NLP)?,1.0,0.3,0.95,0.2,0.95,0.3,0.9,0.2,0.9,0.2
+26,What is word embedding?,1.0,0.3,0.95,0.3,0.95,0.35,0.9,0.2,1.0,0.25
+27,What is sentiment analysis?,1.0,0.3,0.95,0.2,0.95,0.3,0.9,0.2,0.95,0.3
+28,What is deep learning?,1.0,0.3,0.95,0.2,0.95,0.3,0.95,0.3,0.95,0.25
+29,What is a convolutional neural network (CNN)?,1.0,0.2,0.95,0.3,0.95,0.3,0.95,0.2,0.25,0.4
+30,What is a recurrent neural network (RNN)?,1.0,0.3,0.95,0.2,0.95,0.3,0.95,0.3,0.95,0.2
+31,What is reinforcement learning?,1.0,0.3,0.95,0.3,0.95,0.3,0.9,0.4,0.95,0.35
+32,What is Q-learning?,1.0,0.2,0.95,0.3,0.9,0.25,0.95,0.2,1.0,0.3
+33,What is the exploration-exploitation tradeoff in reinforcement learning?,1.0,0.3,0.95,0.2,0.95,0.3,0.95,0.25,0.9,0.3
+34,What is deep reinforcement learning?,1.0,0.3,0.95,0.3,0.95,0.25,0.95,0.3,1.0,0.2
+35,What is a Markov decision process (MDP)?,1.0,0.3,0.95,0.3,0.9,0.3,0.95,0.25,0.2,0.3
+36,What is cross-entropy loss?,1.0,0.2,0.95,0.3,0.95,0.2,0.95,0.2,0.95,0.2
+37,What is the softmax function?,1.0,0.2,0.95,0.2,0.95,0.3,0.9,0.3,0.95,0.3
+38,What is the difference between a generative model and a discriminative model?,1.0,0.3,0.95,0.2,0.95,0.25,0.95,0.2,0.95,0.2
+39,What is autoencoder?,1.0,0.2,0.95,0.2,0.95,0.3,0.95,0.25,0.9,0.25
+40,What is the difference between bagging and boosting?,1.0,0.2,0.95,0.3,0.95,0.3,0.95,0.2,0.9,0.3
+41,What is hyperparameter tuning?,1.0,0.2,0.95,0.3,0.95,0.3,0.95,0.25,0.95,0.25
+42,What is the curse of dimensionality in the context of feature selection?,1.0,0.2,0.95,0.3,0.95,0.3,0.95,0.2,0.95,0.25
+43,What is the difference between L1 and L2 regularization?,1.0,0.2,0.95,0.3,0.95,0.3,0.9,0.25,0.95,0.2
+44,What is the purpose of cross-validation in feature selection?,1.0,0.2,0.95,0.3,0.95,0.2,0.9,0.2,0.95,0.25
+45,What is the role of bias in model evaluation?,1.0,0.3,0.95,0.3,0.9,0.25,0.95,0.3,0.95,0.2
+46,What is the importance of interpretability in machine learning models?,1.0,0.3,0.95,0.3,0.95,0.25,0.9,0.25,0.95,0.2
+47,What is the difference between k-means and hierarchical clustering?,1.0,0.2,0.95,0.3,0.95,0.2,0.9,0.2,0.95,0.25
+48,What is the Elbow Method used for in k-means clustering?,1.0,0.25,0.95,0.3,0.95,0.2,0.9,0.2,0.3,0.25
+49,What is the role of regularization in reducing model complexity?,1.0,0.3,0.95,0.3,0.95,0.2,0.95,0.25,0.9,0.2
+50,What is the difference between gradient descent and stochastic gradient descent?,1.0,0.3,0.95,0.25,0.95,0.2,0.9,0.25,0.95,0.3
+51,What is the tradeoff between bias and variance in model selection?,1.0,0.3,0.95,0.2,0.9,0.15,0.25,0.4,0.95,0.3
+52,What is the role of regularization in reducing overfitting?,1.0,0.2,0.95,0.3,0.9,0.1,0.25,0.2,0.95,0.15
+53,What are some techniques for handling imbalanced datasets in classification tasks?,1.0,0.7,0.3,0.1,0.9,0.2,0.95,0.6,0.95,0.25
+54,What is the purpose of A/B testing in data science?,1.0,0.7,0.3,0.25,0.95,0.3,0.95,0.2,0.4,0.9
+55,What is the difference between correlation and causation?,1.0,0.1,0.95,0.2,0.9,0.15,0.95,0.2,0.9,0.3
+56,What is the role of feature scaling in machine learning?,1.0,0.2,0.95,0.15,0.9,0.25,0.95,0.3,0.1,0.1
+57,What is the difference between classification and clustering?,1.0,0.95,0.25,0.9,0.3,0.2,0.3,0.2,0.95,0.3
+58,What is the purpose of Principal Component Analysis (PCA) in dimensionality reduction?,1.0,0.3,0.2,0.95,0.25,0.1,0.95,0.2,0.3,0.15
+59,What is the role of regularization in neural networks?,1.0,0.2,0.9,0.3,0.95,0.15,0.9,0.25,0.9,0.2
+60,What is dropout regularization in neural networks?,1.0,0.2,0.95,0.3,0.85,0.1,0.9,0.15,0.95,0.1
+61,What is the difference between a generative adversarial network (GAN) and a variational autoencoder (VAE)?,1.0,0.4,0.95,0.3,0.9,0.3,0.9,0.25,0.9,0.2
+62,What is the difference between batch gradient descent and mini-batch gradient descent?,1.0,0.2,0.9,0.3,0.95,0.8,0.95,0.25,0.2,0.1
+63,What is the role of activation functions in neural networks?,1.0,0.7,0.4,0.95,0.9,0.3,0.3,1.0,0.2,0.95
+64,What is the difference between generative and discriminative models in machine learning?,1.0,0.2,0.95,0.3,0.9,0.25,0.15,0.95,0.2,0.3
+65,What is the purpose of dropout regularization in neural networks?,1.0,0.2,0.9,0.3,0.95,0.1,0.9,0.25,0.95,0.15
+66,What is the role of LSTMs in sequence modeling tasks?,1.0,0.3,0.25,0.95,0.4,0.2,0.9,0.25,0.95,0.3
+67,What is the difference between precision and recall in classification tasks?,1.0,0.2,0.95,0.15,0.9,0.1,1.0,0.3,0.1,0.1
+68,"What is the F1 score, and why is it useful in model evaluation?",1.0,0.2,0.95,0.25,0.9,0.15,0.95,0.1,0.3,0.9
+69,What is the purpose of word embedding in natural language processing (NLP)?,1.0,0.1,0.95,0.2,0.95,0.15,0.05,1.0,0.1,0.9
+70,What is the difference between word2vec and GloVe in word embedding?,1.0,0.2,0.95,0.3,0.95,0.1,0.85,0.6,0.9,0.4
+71,What is the purpose of sentiment analysis in natural language processing (NLP)?,1.0,0.2,0.95,0.1,0.9,0.3,0.95,0.4,0.9,0.25
+72,What is the difference between shallow learning and deep learning?,1.0,0.3,0.95,0.2,0.9,0.2,0.9,0.3,0.95,0.25
+73,What is the role of dropout regularization in neural networks?,1.0,0.2,0.95,0.2,0.9,0.3,0.9,0.4,0.95,0.3
+74,What is the difference between precision and accuracy in model evaluation?,1.0,0.2,0.95,0.3,0.95,0.2,0.9,0.95,0.4,0.9
+75,What is the difference between k-fold cross-validation and leave-one-out cross-validation?,1.0,0.2,0.9,0.95,0.4,0.3,0.9,0.2,0.3,0.2
+76,What is the Naive Bayes classifier and how does it work?,1.0,0.2,0.95,0.4,0.95,0.1,0.95,0.2,0.95,0.1
+77,What is the difference between correlation and covariance?,1.0,0.2,0.95,0.3,0.9,0.9,0.3,0.95,0.2,0.2
+78,What is the purpose of a confusion matrix in classification tasks?,1.0,0.1,0.95,0.2,0.95,0.1,0.9,0.3,0.95,0.2
+79,What is the difference between stratified sampling and random sampling?,1.0,0.3,0.95,0.2,0.9,0.2,0.95,0.3,0.95,0.2
+80,"What is the difference between univariate, bivariate, and multivariate analysis?",1.0,0.2,0.9,0.1,0.95,0.3,0.95,0.3,0.9,0.2
+81,What is the purpose of data preprocessing in machine learning?,1.0,0.3,0.95,0.2,0.95,0.95,0.2,0.9,0.2,0.4
+82,What is the bias of a statistical estimator?,1.0,0.3,0.95,0.2,0.9,0.2,0.9,0.2,0.95,0.2
+83,What is the variance of a statistical estimator?,1.0,0.3,0.95,0.2,0.95,0.2,0.9,0.3,0.9,0.2
+84,What is the difference between parametric and non-parametric statistical tests?,1.0,0.2,0.95,0.3,0.9,0.4,0.95,0.2,0.95,0.3
+85,What is the purpose of feature scaling in machine learning?,1.0,0.2,0.95,0.2,0.9,0.3,0.95,0.2,0.9,0.2
+86,What is the difference between correlation and causation in statistics?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.3,0.9,0.2
+87,What is the Central Limit Theorem and why is it important?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.1,0.3,0.2
+88,What is the purpose of outlier detection in data analysis?,1.0,0.2,0.95,0.1,0.9,0.3,0.95,0.3,0.95,0.2
+89,What is the difference between supervised and unsupervised outlier detection methods?,1.0,0.2,0.95,0.2,0.95,0.3,0.9,0.2,0.95,0.3
+90,What is the difference between statistical inference and predictive modeling?,1.0,0.2,0.9,0.2,0.95,0.2,0.95,0.3,0.9,0.3
+91,What is the purpose of regularization in machine learning?,1.0,0.2,0.95,0.3,0.95,0.2,0.95,0.2,0.9,0.2
+92,What is the difference between batch gradient descent and stochastic gradient descent?,1.0,0.2,0.95,0.2,0.95,0.3,0.95,0.2,0.9,0.3
+93,What is the difference between statistical modeling and machine learning?,1.0,0.2,0.95,0.2,0.9,0.2,0.95,0.2,0.95,0.1
+94,What is the purpose of feature selection in machine learning?,1.0,0.2,0.95,0.2,0.9,0.2,0.95,0.1,0.95,0.2
+95,What is the difference between regularization and feature selection in machine learning?,1.0,0.2,0.95,0.2,0.95,0.3,0.9,0.3,0.95,0.1
+96,What is the difference between grid search and random search for hyperparameter tuning?,1.0,0.2,0.95,0.2,0.95,0.2,0.9,0.1,0.95,0.1
+97,What is the purpose of cross-validation in model evaluation?,1.0,0.2,0.95,0.2,0.95,0.2,0.9,0.1,0.9,0.2
+98,What is the difference between precision and recall in classification evaluation?,1.0,0.2,0.95,0.2,0.95,0.2,0.9,0.2,0.95,0.1
+99,"What is the F1 score, and why is it useful in imbalanced datasets?",1.0,0.2,0.9,0.2,0.95,0.3,0.2,0.9,0.95,0.2
+100,What is the difference between bagging and boosting ensemble methods?,1.0,0.2,0.95,0.2,0.95,0.3,0.9,0.2,0.9,0.1
+101,What is the purpose of principal component analysis (PCA) in dimensionality reduction?,1.0,0.1,0.95,0.2,0.9,0.3,0.9,0.2,0.95,0.1
+102,What is the difference between k-means and hierarchical clustering?,1.0,0.3,0.95,0.2,0.9,0.1,0.9,0.1,0.95,0.1
+103,What is the difference between classification and regression in machine learning?,1.0,0.2,0.95,0.2,0.95,0.2,0.9,0.2,0.95,0.1
+104,What is the purpose of natural language processing (NLP) in data science?,1.0,0.1,0.95,0.2,0.95,0.2,0.9,0.2,0.95,0.1
+105,What is the difference between bag-of-words and word embeddings in NLP?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.1,0.9,0.1
+106,What is the difference between sentiment analysis and topic modeling in NLP?,1.0,0.2,0.95,0.2,0.95,0.3,0.95,0.1,0.95,0.1
+107,What is the purpose of word2vec in NLP?,1.0,0.2,0.95,0.2,0.95,0.2,0.9,0.2,0.95,0.1
+108,What is the difference between a generative model and a discriminative model in machine learning?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.3,0.9,0.1
+109,What is the difference between deep learning and traditional machine learning algorithms?,1.0,0.2,0.95,0.2,0.9,0.2,0.95,0.1,0.95,0.1
+110,What is the purpose of transfer learning in deep learning?,1.0,0.2,0.95,0.2,0.95,0.1,0.95,0.1,0.95,0.1
+111,What is the difference between convolutional neural networks (CNNs) and recurrent neural networks (RNNs)?,1.0,0.2,0.95,0.2,0.9,0.2,0.95,0.2,0.95,0.1
+112,What is the purpose of batch normalization in neural networks?,1.0,0.2,0.9,0.1,0.95,0.2,0.9,0.1,0.95,0.1
+113,What is the difference between a feedforward neural network and a recurrent neural network?,1.0,0.2,0.95,0.1,0.95,0.2,0.9,0.1,0.95,0.1
+114,What is the purpose of dropout regularization in neural networks?,1.0,0.2,0.95,0.1,0.9,0.1,0.9,0.1,0.95,0.1
+115,What is the difference between LSTMs and GRUs in recurrent neural networks?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.1,0.9,0.1
+116,What is the purpose of attention mechanisms in neural networks?,1.0,0.2,0.95,0.1,0.95,0.1,0.9,0.1,0.95,0.1
+117,What is the difference between generative adversarial networks (GANs) and autoencoders in deep learning?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.1,0.95,0.1
+118,What is the purpose of reinforcement learning in machine learning?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.2,0.95,0.1
+119,What is the difference between Q-learning and policy gradient methods in reinforcement learning?,1.0,0.2,0.95,0.1,0.95,0.2,0.9,0.1,0.9,0.1
+120,What is the purpose of data preprocessing in exploratory data analysis (EDA)?,1.0,0.2,0.95,0.2,0.9,0.1,0.9,0.1,0.95,0.1
+121,What are some common techniques for handling missing data in EDA?,1.0,0.1,0.95,0.2,0.9,0.2,0.95,0.1,0.9,0.1
+122,What is the difference between univariate and bivariate analysis in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.2,0.9,0.1
+123,What is the purpose of data visualization in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.2,0.9,0.1
+124,What are some common types of data visualization used in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.1,0.9,0.1
+125,What is the difference between continuous and categorical variables in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.1,0.9,0.1
+126,What is the purpose of statistical summaries in EDA?,1.0,0.2,0.95,0.2,0.9,0.1,0.9,0.1,0.95,0.1
+127,What is the difference between central tendency and dispersion measures in EDA?,1.0,0.1,0.95,0.2,0.9,0.2,0.9,0.1,0.95,0.1
+128,What is the purpose of hypothesis testing in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.1,0.9,0.1
+129,What is the difference between parametric and non-parametric tests in hypothesis testing?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.1,0.9,0.2
+130,What is the purpose of correlation analysis in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.2,0.9,0.1
+131,What is the difference between Pearson correlation and Spearman correlation?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.2,0.9,0.1
+132,What is the purpose of regression analysis in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.9,0.2,0.95,0.1
+133,What are the assumptions of linear regression in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.9,0.1,0.95,0.1
+134,What is the difference between simple linear regression and multiple linear regression?,1.0,0.2,0.95,0.2,0.9,0.1,0.9,0.2,0.95,0.1
+135,What is the purpose of logistic regression in EDA?,1.0,0.2,0.95,0.2,0.9,0.1,0.95,0.2,0.9,0.1
+136,What are the assumptions of logistic regression in EDA?,1.0,0.2,0.95,0.1,0.95,0.2,0.9,0.2,0.9,0.1
+137,What is the purpose of outlier detection in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.9,0.2,0.95,0.1
+138,What are some common techniques for detecting outliers in EDA?,1.0,0.2,0.95,0.1,0.9,0.9,0.9,0.1,0.95,0.2
+139,What is the purpose of box plots in EDA?,1.0,0.1,0.95,0.1,0.9,0.2,0.95,0.1,0.9,0.1
+140,What is the purpose of histograms in EDA?,1.0,0.1,0.95,0.2,0.9,0.2,0.9,0.1,0.95,0.1
+141,What is the purpose of scatter plots in EDA?,1.0,0.1,0.95,0.1,0.9,0.2,0.95,0.2,0.9,0.1
+142,What is the purpose of bar charts in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.2,0.9,0.1
+143,What is the purpose of line plots in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.2,0.9,0.1
+144,What is the purpose of heatmaps in EDA?,1.0,0.2,0.95,0.1,0.9,0.1,0.95,0.2,0.9,0.1
+145,What is the purpose of correlation matrices in EDA?,1.0,0.1,0.95,0.1,0.9,0.1,0.95,0.2,0.9,0.1
+146,What is the difference between correlation and causation in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.1,0.9,0.1
+147,What is the purpose of statistical tests in EDA?,1.0,0.1,0.95,0.2,0.95,0.2,0.9,0.1,0.95,0.1
+148,What is the difference between parametric and non-parametric tests in EDA?,1.0,0.1,0.95,0.2,0.95,0.1,0.95,0.1,0.9,0.1
+149,What is the purpose of ANOVA in EDA?,1.0,0.1,0.95,0.2,0.95,0.1,0.95,0.2,0.9,0.1
+150,What is the difference between one-way ANOVA and two-way ANOVA in EDA?,1.0,0.1,0.95,0.1,0.9,0.2,0.95,0.2,0.9,0.1
+151,What is the purpose of chi-squared test in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.1,0.9,0.1
+152,What is the purpose of t-tests in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.1,0.3,0.4
+153,What is the difference between independent samples t-test and paired samples t-test in EDA?,1.0,0.95,0.2,0.15,0.9,0.1,0.95,0.3,0.1,0.1
+154,What is the purpose of non-parametric tests in EDA?,1.0,0.1,0.95,0.2,0.9,0.1,0.95,0.2,0.2,0.1
+155,What is the difference between Wilcoxon signed-rank test and Mann-Whitney U test in EDA?,1.0,0.95,0.2,0.1,0.3,0.9,0.2,0.1,0.9,0.1
+156,What is the purpose of exploratory factor analysis (EFA) in EDA?,1.0,0.3,0.1,0.95,0.95,0.1,0.2,0.9,0.2,0.3
+157,What is the difference between EFA and principal component analysis (PCA) in EDA?,1.0,0.95,0.2,0.1,0.9,0.95,0.1,0.1,0.1,0.2
+158,What is the purpose of cluster analysis in EDA?,1.0,0.2,0.95,0.1,0.9,0.3,0.1,0.6,0.2,0.1
+159,What are some common algorithms used for cluster analysis in EDA?,1.0,0.1,0.95,0.9,0.2,0.9,0.1,0.95,0.9,0.3
+160,What is the difference between K-means clustering and hierarchical clustering in EDA?,1.0,0.95,0.9,0.2,0.9,1.0,0.2,0.1,0.95,0.3
+161,What is the purpose of dendrogram in hierarchical clustering in EDA?,1.0,0.95,0.1,0.9,0.8,0.1,0.9,0.2,0.1,0.1
+162,What is the purpose of silhouette analysis in cluster validation in EDA?,1.0,0.95,0.9,0.2,0.6,0.1,0.9,0.2,0.1,0.1
+163,What is the purpose of dimensionality reduction techniques in EDA?,1.0,0.95,0.2,0.1,0.9,0.1,0.95,0.2,0.1,0.1
+164,What are some common dimensionality reduction techniques used in EDA?,1.0,0.95,0.3,0.9,0.1,0.2,0.4,0.95,0.9,0.1
+165,What is the purpose of PCA in EDA?,1.0,0.8,0.1,0.95,0.95,0.2,0.1,0.1,0.9,0.1
+166,What is the difference between PCA and factor analysis in EDA?,1.0,0.95,0.3,0.9,0.95,0.1,0.1,0.1,0.2,0.9
+167,What is the purpose of t-SNE in EDA?,1.0,0.9,0.1,0.95,0.2,0.2,0.9,0.7,0.1,0.9
+168,What is the difference between linear discriminant analysis (LDA) and PCA in EDA?,1.0,0.95,0.95,0.2,0.9,0.7,0.1,0.3,0.1,0.95
+169,What is the purpose of feature selection in EDA?,1.0,0.6,0.9,0.3,0.95,0.2,0.9,0.1,0.2,0.3
+170,What are some common feature selection techniques used in EDA?,1.0,0.95,0.3,0.9,0.2,0.95,0.9,0.85,0.1,0.4
+171,What is the purpose of ensemble methods in EDA?,1.0,0.9,0.2,0.1,0.8,0.2,0.95,0.1,0.3,0.1
+172,What are some common ensemble methods used in EDA?,1.0,0.95,0.95,0.9,0.95,0.1,0.2,0.9,0.1,0.2
+173,What is the purpose of model evaluation in EDA?,1.0,0.9,0.95,0.2,0.9,0.1,0.1,0.85,0.2,0.1
+174,What are some common metrics used for model evaluation in EDA?,1.0,0.95,0.9,0.9,0.85,0.3,0.2,0.9,0.3,0.5
+175,What is the difference between cross-validation and holdout validation in model evaluation in EDA?,1.0,0.95,0.4,0.1,0.9,0.2,0.3,0.6,0.1,0.1
+176,What is the purpose of hyperparameter tuning in model evaluation in EDA?,1.0,0.95,0.2,0.1,0.9,0.3,0.9,0.2,0.1,0.95
+177,What are some common techniques for hyperparameter tuning in EDA?,1.0,0.95,0.95,0.2,0.9,0.1,0.85,0.3,0.9,0.4
+178,What is the purpose of model interpretation in EDA?,1.0,0.95,0.3,0.9,0.2,0.95,0.3,0.85,0.2,0.95
+179,What are some common techniques for model interpretation in EDA?,1.0,0.95,0.95,0.9,0.2,0.9,0.85,0.3,0.9,0.85
+180,What is the purpose of model deployment in EDA?,1.0,0.4,0.3,0.2,0.95,0.4,0.2,0.5,0.2,0.9
+181,What are some common techniques for model deployment in EDA?,0.9,0.85,0.75,0.2,0.95,0.3,0.8,0.4,0.3,0.6
+182,What is the purpose of regularization in machine learning?,1.0,0.2,0.95,0.2,0.9,0.3,0.95,0.2,0.9,0.25
+183,What are the common types of regularization used in machine learning?,1.0,0.3,0.95,0.95,0.2,0.9,0.25,0.95,0.2,0.3
+184,What is the bias-variance trade-off in machine learning?,1.0,0.4,0.95,0.2,0.3,0.9,0.3,1.0,0.1,0.1
+185,What is the purpose of feature scaling in machine learning?,1.0,0.3,0.95,0.2,0.9,0.2,0.95,0.2,0.9,0.4
+186,What is the purpose of cross-validation in model evaluation?,1.0,0.3,0.95,0.2,0.95,0.3,0.8,0.4,0.2,0.95
+187,What are the common types of cross-validation techniques used in machine learning?,1.0,0.2,0.95,0.3,0.95,0.3,0.95,0.25,0.9,0.3
+188,What is the difference between bagging and boosting ensemble methods?,1.0,0.3,0.95,0.2,1.0,0.3,0.95,0.4,0.1,0.4
+189,What is the purpose of hyperparameter tuning in machine learning?,1.0,0.3,0.95,0.2,0.9,0.25,0.95,0.2,0.2,0.95
+190,What are some common techniques for hyperparameter tuning in machine learning?,1.0,0.4,0.95,0.2,0.95,0.3,0.9,0.2,0.95,0.2
+191,What is the difference between supervised and unsupervised learning in machine learning?,1.0,0.3,0.95,0.2,0.95,0.2,1.0,0.25,0.9,0.2
+192,What are some common dimensionality reduction techniques used in machine learning?,1.0,0.2,0.95,0.2,0.95,0.3,0.9,0.4,0.9,0.95
+193,What is the purpose of model interpretation in machine learning?,1.0,0.2,0.95,0.2,0.9,0.3,0.95,0.3,0.95,0.2
+194,What are some common techniques for model interpretation in machine learning?,1.0,0.3,0.95,0.2,0.95,0.2,0.9,0.25,1.0,0.3
+195,What is the purpose of model deployment in machine learning?,1.0,0.4,0.95,0.2,0.9,0.25,0.3,0.95,0.2,0.3
+196,What are some common techniques for model deployment in machine learning?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.3,0.9,0.95
+197,What is the purpose of transfer learning in machine learning?,1.0,0.3,0.95,0.2,0.95,0.25,0.95,0.2,0.9,0.2
+198,What are some common applications of transfer learning in machine learning?,1.0,0.2,0.95,0.2,0.95,0.2,0.9,0.3,0.9,0.9
+199,What is the difference between generative and discriminative models in machine learning?,1.0,0.2,0.95,0.2,0.9,0.25,1.0,0.3,0.8,0.2
+200,What is the purpose of feature engineering in machine learning?,1.0,0.2,0.95,0.25,0.9,0.2,0.2,0.95,0.3,0.95
+201,What are some common techniques for feature engineering?,1.0,0.2,0.95,0.3,0.95,0.2,0.9,0.9,0.2,0.9
+202,What is the difference between batch processing and real-time processing?,1.0,0.2,0.95,0.25,0.95,0.3,0.95,0.2,0.95,0.2
+203,What is natural language processing (NLP)?,1.0,0.3,0.95,0.2,0.95,0.3,0.95,0.2,0.95,0.2
+204,What is sentiment analysis?,1.0,0.2,0.95,0.25,0.9,0.2,0.9,0.2,0.95,0.3
+205,What is transfer learning in NLP?,1.0,0.2,0.95,0.2,0.95,0.3,0.95,0.2,0.95,0.2
+206,What is named entity recognition (NER)?,1.0,0.2,0.95,0.25,0.95,0.2,0.9,0.2,0.95,0.2
+207,What are some challenges in working with unstructured data?,1.0,0.2,0.9,0.3,0.95,0.2,0.95,0.2,0.95,0.2
+208,What is collaborative filtering in recommendation systems?,1.0,0.3,0.95,0.3,0.95,0.3,0.9,0.2,0.95,0.2
+209,What are some evaluation metrics used in recommendation systems?,1.0,0.3,0.95,0.95,0.3,0.95,0.9,0.2,0.95,0.2
+210,What is deep reinforcement learning?,1.0,0.2,0.95,0.25,0.95,0.3,0.95,0.2,0.95,0.2
+211,What is the Markov Decision Process (MDP)?,1.0,0.2,0.95,0.2,0.95,0.3,0.95,0.2,0.95,0.2
+212,What is policy gradient in reinforcement learning?,1.0,0.3,0.95,0.3,0.95,0.2,0.9,0.3,0.95,0.2
+213,What is a convolutional neural network (CNN)?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.2,0.95,0.2
+214,What is data augmentation in deep learning?,1.0,0.3,0.95,0.2,0.95,0.2,0.95,0.3,0.95,0.2
+215,What is sequence-to-sequence learning?,1.0,0.2,0.95,0.3,0.95,0.2,0.95,0.2,0.95,0.2
+216,What is attention mechanism in deep learning?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.2,0.95,0.3
+217,What are some common optimization algorithms used in deep learning?,1.0,0.2,0.95,0.2,0.95,0.95,0.95,0.2,0.95,0.2
+218,What is semi-supervised learning?,1.0,0.2,0.95,0.3,0.95,0.3,0.95,0.2,0.95,0.2
+219,What is self-supervised learning?,1.0,0.3,0.95,0.2,0.95,0.2,0.95,0.2,0.95,0.2
+220,What is reinforcement learning?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.2,0.95,0.3
+221,What is Q-learning?,1.0,0.2,0.95,0.2,0.95,0.2,0.95,0.2,0.95,0.2
+222,What is the exploration-exploitation tradeoff in reinforcement learning?,1.0,0.2,0.95,0.3,0.95,0.2,0.95,0.2,0.95,0.2
+223,What is the Bellman equation in reinforcement learning?,1.0,0.3,0.95,0.2,0.95,0.2,0.95,0.2,0.3,0.2
+224,What is the difference between on-policy and off-policy learning in reinforcement learning?,1.0,0.2,0.95,0.3,0.95,0.5,0.2,0.2,0.95,0.2
+225,What is data science?,1.0,0.3,0.95,0.3,1.0,0.2,0.95,0.2,0.95,0.2
+226,What are the main components of the data science process?,1.0,0.3,0.95,0.2,1.0,0.2,0.95,0.2,0.95,0.3
+227,What is the difference between supervised and unsupervised learning?,1.0,0.3,0.95,0.2,1.0,0.4,0.2,0.2,0.95,0.3
+228,What is overfitting in machine learning?,1.0,0.3,1.0,0.2,1.0,0.2,0.2,0.3,1.0,0.4
+229,How do you handle missing data in a dataset?,1.0,0.5,0.95,0.1,0.95,0.2,1.0,0.2,0.9,0.1
+230,Explain the curse of dimensionality.,1.0,0.2,0.95,0.2,1.0,0.2,0.95,0.1,0.2,0.3
+231,What is regularization in machine learning?,1.0,0.2,0.95,0.3,1.0,0.3,0.2,0.95,0.4,0.2
+232,What is the purpose of cross-validation?,1.0,0.2,0.95,0.2,1.0,0.3,0.4,0.95,0.3,0.2
+233,What are some common algorithms used in supervised learning?,1.0,0.2,0.95,0.1,1.0,0.2,0.1,0.2,0.95,0.3
+234,What is the difference between classification and regression?,1.0,0.2,0.95,0.3,1.0,0.2,0.2,0.3,1.0,0.1
+235,How does regularization prevent overfitting in neural networks?,1.0,0.95,0.2,0.3,1.0,0.3,0.2,0.95,0.3,0.2
+236,What is the purpose of activation functions in neural networks?,1.0,0.9,1.0,0.2,0.3,0.95,0.3,0.9,0.4,0.3
+237,What is the ROC curve?,1.0,0.95,0.5,0.2,1.0,0.4,0.2,0.1,0.1,0.1
+238,What is the F1 score?,1.0,0.3,0.95,0.2,1.0,0.3,0.3,0.1,0.9,0.2
+239,What is the purpose of dimensionality reduction techniques?,1.0,0.2,0.95,0.2,1.0,0.3,0.2,0.95,0.2,0.9
+240,Explain the difference between PCA and t-SNE.,1.0,0.3,0.6,0.2,1.0,0.2,0.3,1.0,0.9,0.2
+241,What is K-means clustering?,1.0,0.95,0.2,0.1,1.0,0.2,0.9,0.3,0.3,0.2
+242,What is the elbow method used for in K-means clustering?,1.0,0.3,0.4,0.2,1.0,0.2,0.1,0.2,0.3,0.1
+243,What is outlier detection?,1.0,0.8,0.2,1.0,0.2,1.0,0.3,0.2,0.3,0.2
+244,How does regularization prevent overfitting in neural networks?,1.0,0.95,1.0,1.0,0.95,0.9,0.3,1.0,1.0,0.2
+245,What is the purpose of activation functions in neural networks?,1.0,0.7,0.3,1.0,0.2,1.0,0.6,1.0,0.2,0.3
+246,What are the advantages of deep learning over traditional machine learning algorithms?,1.0,0.3,1.0,0.1,1.0,0.2,1.0,0.2,1.0,0.1
+247,What is backpropagation?,1.0,1.0,0.2,0.2,1.0,1.0,0.1,1.0,0.1,0.3
+248,What is transfer learning?,1.0,0.2,1.0,0.7,0.3,1.0,0.2,1.0,1.0,0.3
+249,How do you evaluate the performance of a regression model?,1.0,0.2,1.0,0.2,1.0,0.5,1.0,0.1,1.0,0.3
+250,What is the purpose of the A/B test in data science?,1.0,0.2,1.0,1.0,0.1,1.0,0.2,1.0,0.1,1.0
+251,What is the Central Limit Theorem?,1.0,0.6,0.9,0.2,1.0,1.0,0.4,1.0,0.1,0.3
+252,What is the difference between correlation and causation?,1.0,0.4,1.0,0.3,1.0,0.2,0.2,1.0,0.8,0.1
+253,What is Bayesian inference?,1.0,0.2,1.0,0.3,1.0,0.2,0.2,1.0,0.1,1.0
+254,What is the purpose of hypothesis testing?,1.0,0.2,1.0,0.3,1.0,0.4,0.9,0.1,1.0,0.1
+255,What is regularization in linear regression?,1.0,0.3,1.0,0.2,1.0,0.2,1.0,0.2,1.0,0.1
+256,What are the assumptions of linear regression?,1.0,0.2,1.0,0.4,1.0,1.0,0.1,1.0,0.2,0.1
+257,What is the difference between Type I and Type II errors?,1.0,0.3,1.0,0.2,1.0,0.2,1.0,0.2,0.3,0.1
+258,What is the p-value in hypothesis testing?,1.0,0.2,1.0,0.3,1.0,0.2,1.0,0.4,0.1,0.3
+259,What is the bias-variance tradeoff?,1.0,1.0,0.2,0.3,1.0,0.4,0.2,0.1,1.0,0.3
+260,What is the difference between bagging and boosting?,1.0,0.2,1.0,0.3,1.0,0.1,0.4,1.0,0.3,0.1
+261,What is the purpose of cross-validation in model evaluation?,1.0,0.2,1.0,0.3,1.0,0.4,1.0,0.2,1.0,0.1
+262,What is the difference between stratified sampling and random sampling?,1.0,0.6,1.0,0.3,1.0,0.2,0.1,0.3,1.0,0.2
+263,What is ensemble learning?,1.0,0.2,1.0,0.3,1.0,0.3,1.0,0.2,1.0,0.1
+264,What is the difference between variance and standard deviation?,1.0,0.3,1.0,0.2,0.2,0.3,0.1,0.5,0.1,0.3
+265,What is the difference between a decision tree and a random forest?,1.0,0.2,1.0,0.3,1.0,0.2,1.0,1.0,0.3,0.2
+266,What is the difference between batch gradient descent and stochastic gradient descent?,1.0,0.2,1.0,0.2,1.0,0.3,1.0,0.3,1.0,0.1
+267,What is the role of activation functions in neural networks?,1.0,0.2,1.0,0.4,1.0,0.2,1.0,0.2,1.0,0.1
+268,What is dropout regularization in neural networks?,1.0,0.2,1.0,0.2,1.0,0.2,1.0,0.3,1.0,0.1
+269,What is batch normalization in neural networks?,1.0,0.2,1.0,0.2,1.0,0.2,0.9,0.3,1.0,0.4
+270,What is the difference between L1 and L2 regularization?,1.0,0.2,1.0,0.2,1.0,1.0,0.5,0.3,1.0,0.2
+271,What is the purpose of a confusion matrix in classification?,1.0,1.0,0.2,1.0,0.1,1.0,1.0,0.2,0.2,0.1
+272,What is the softmax function?,1.0,0.2,1.0,0.2,1.0,0.2,1.0,0.3,1.0,0.1
+273,What is the Kullback-Leibler (KL) divergence?,1.0,0.2,1.0,0.2,1.0,0.1,1.0,0.2,1.0,0.1
+274,What is the difference between batch normalization and layer normalization in neural networks?,1.0,0.2,1.0,0.2,1.0,1.0,0.1,1.0,0.3,0.2
+275,What is unsupervised learning?,1.0,0.1,1.0,0.1,1.0,0.2,1.0,0.2,1.0,0.3
+276,What are the main types of unsupervised learning techniques?,1.0,0.1,1.0,0.1,1.0,0.1,1.0,1.0,0.1,1.0
+277,What is clustering?,1.0,0.2,1.0,0.1,1.0,0.1,1.0,0.2,1.0,0.1
+278,What are the common clustering algorithms?,1.0,0.1,1.0,0.2,1.0,1.0,0.2,1.0,1.0,0.1
+279,What is K-means clustering?,1.0,0.2,1.0,0.1,1.0,0.2,1.0,0.3,1.0,0.2
+280,What is hierarchical clustering?,1.0,0.1,1.0,0.3,1.0,0.2,1.0,0.1,1.0,0.1
+281,What is DBSCAN clustering?,1.0,0.2,1.0,0.1,1.0,0.2,1.0,0.3,1.0,0.1
+282,What is dimensionality reduction?,1.0,0.2,1.0,0.1,1.0,0.2,1.0,1.0,0.1,1.0
+283,What are the common dimensionality reduction techniques?,1.0,0.2,1.0,0.2,1.0,1.0,1.0,0.1,1.0,0.2
+284,What is PCA (Principal Component Analysis)?,1.0,0.2,1.0,0.1,1.0,0.2,1.0,1.0,0.1,1.0
+285,What is t-SNE (t-Distributed Stochastic Neighbor Embedding)?,1.0,0.2,1.0,0.2,1.0,1.0,0.1,1.0,0.2,1.0
+286,What is Singular Value Decomposition (SVD)?,1.0,0.2,1.0,0.2,1.0,0.1,1.0,0.3,1.0,0.1
+287,What is association rule learning?,1.0,0.2,1.0,0.2,1.0,0.1,1.0,1.0,0.2,1.0
+288,What are the common association rule learning algorithms?,1.0,0.2,1.0,1.0,0.2,1.0,1.0,0.1,1.0,0.1
+289,What is the Apriori algorithm?,1.0,0.1,1.0,0.2,1.0,0.2,1.0,1.0,0.1,1.0
+290,What is FP-Growth?,1.0,0.2,1.0,0.2,1.0,0.1,1.0,1.0,0.1,0.2
+291,What is anomaly detection?,1.0,0.1,1.0,0.2,1.0,0.2,1.0,0.3,1.0,0.1
+292,What are the common anomaly detection techniques?,1.0,0.2,1.0,0.5,1.0,1.0,0.2,1.0,0.2,1.0
+293,What is Isolation Forest?,1.0,1.0,0.3,0.4,1.0,0.2,1.0,1.0,0.2,0.3
+294,What is One-Class SVM?,1.0,0.9,0.2,1.0,1.0,0.2,1.0,0.4,0.9,1.0
+295,What is the purpose of density estimation?,1.0,1.0,0.2,1.0,1.0,0.2,1.0,1.0,0.2,0.1
+296,What are the common density estimation techniques?,1.0,0.2,1.0,0.3,1.0,0.2,1.0,0.2,1.0,0.1
+297,What is the Gaussian Mixture Model (GMM)?,1.0,1.0,1.0,0.2,1.0,0.3,1.0,0.2,1.0,0.4
+298,What is the Expectation-Maximization (EM) algorithm?,1.0,1.0,1.0,0.3,1.0,0.1,1.0,0.2,0.3,1.0
+299,What is the difference between generative and discriminative models?,1.0,0.2,1.0,1.0,0.2,0.4,0.3,1.0,0.2,0.3
+300,What is the purpose of generative modeling?,1.0,0.4,1.0,1.0,0.2,1.0,0.2,1.0,0.3,0.2
