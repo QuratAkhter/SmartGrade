@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+nltk
+spacy
+torch
+sentence-transformers
+scikit-learn
